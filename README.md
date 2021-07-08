@@ -1,3 +1,3 @@
-# Analog-Electronics-Project
+# Analog-Electronics-Project (Project Note: 81.35/100)
 EE-313(METU) ANALOG ELECTRONICS Project
 A LANE ADJUSTER CIRCUITFOR SMART CAR APPLICATIONS<br/>
